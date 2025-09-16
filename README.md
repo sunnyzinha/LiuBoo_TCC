@@ -19,7 +19,7 @@ Além disso, pais e responsáveis que buscam uma ferramenta segura e educativa t
 
 * ###### Personalidade do Liuboo
 
-Mascote único - nosso mascote Liu vai te acompanhar por todo o aplicativo.
+Mascote único - nosso mascote LiuBoo vai te acompanhar por todo o aplicativo.
 
 Amigável e lúdico - cada tela traz um ambiente leve e colorido.
 
