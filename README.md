@@ -43,7 +43,7 @@ Atividades especiais - ao final de cada seção, a criança enfrentará um "chef
 
 ##### Tecnologias e ferramentas
 
-React Native / Expo - construção do aplicativo.
+React Native / Expo e VsCode - construção do aplicativo.
 
 React Navigation - navegação fluída entre telas.
 
